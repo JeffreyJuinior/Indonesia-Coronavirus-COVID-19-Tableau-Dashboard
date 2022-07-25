@@ -1,5 +1,4 @@
 # Indonesia-Coronavirus-COVID-19-Tableau-Dashboard
-
 Created by: Jeffrey Junior Tedjasulaksana
 
 Data Source: [Kaggle](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
@@ -12,8 +11,8 @@ Data Source: [Kaggle](https://www.kaggle.com/datasets/hendratno/covid19-indonesi
 - Number of people dying from COVID-19 per week
 - Number of positive cases of COVID-19 per week
 
-## Detail Feature
-
+## Detail Features
+![](https://github.com/JeffreyJuinior/Indonesia-Coronavirus-COVID-19-Tableau-Dashboard/blob/main/Image/Dashboard%20Indonesia%20Covid%20(2).PNG)
 
 - Choose provinces on the map to display the details of Deaths chart and new cases chart
 - Choose the year from the deaths chart and the new cases chart
