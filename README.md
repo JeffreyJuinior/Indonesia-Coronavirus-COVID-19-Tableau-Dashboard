@@ -3,6 +3,8 @@ Created by: Jeffrey Junior Tedjasulaksana
 
 Data Source: [Kaggle](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
 
+Visualizing the spread of the corona virus (COVID-19) in each province in Indonesia as a consideration for the government in making policies to inhibit the spread of the corona virus (COVID-19) 
+
 ## Dashboard View
 ![](https://github.com/JeffreyJuinior/Indonesia-Coronavirus-COVID-19-Tableau-Dashboard/blob/main/Image/Dashboard%20Indonesia%20Covid.PNG)
 
